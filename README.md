@@ -1,9 +1,8 @@
 <div align="center">
     <img src="./images/bshlogo.png" alt="BshLogo" />
     <br>
+    <center> Basic Shell </center>
 </div>
-
-<center> Basic Shell </center>
 
 ---
 
